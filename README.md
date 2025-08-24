@@ -36,7 +36,7 @@ I am a **Front-End Developer** specializing in **React**. I focus on building sc
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://x.com/bitazamaani" target="blank">
-  <img align="center" src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=black"/>
 </a>
 
 
